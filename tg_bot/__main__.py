@@ -20,10 +20,10 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 from tg_bot.modules.disable import DisableAbleCommandHandler
 
 PM_START_TEXT = """
-Hey {}, my name is {}! If you have any questions on how to use me, read /help - and then Join @JokerHarleyNews.
+Hey {}, my name is {}! If you have any questions on how to use me, read /help - and then Join @StormFan.
 
 I'm a group manager bot maintained by [this guy](tg://user?id={}).
-and am fully Open-source you can find what makes me tick [here](github.com/Yasir-siddiqui/Joker_dabot)!
+
 
 You can find the list of available commands with /help.
 
@@ -51,7 +51,7 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can be used with /.")
 
 DONATE_STRING = """Heya, glad to hear you want to donate :D
-If you want to donate, PM [YasiR Siddiqui](t.me/Yasirsiddiqui), and ask about donation. \
+If you want to donate, PM [Arman](t.me/Arman_xD), and ask about donation. \
 If you really want to donate, it could really help me to upgrade my VPS."""
 
 IMPORTED = {}
