@@ -10,3 +10,5 @@ bs4
 lxml
 pyowm
 geopy
+pythonping
+hurry.filesize
